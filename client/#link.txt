@@ -1,0 +1,5 @@
+link 1:
+    https://blog.bitsrc.io/how-to-build-a-contact-form-with-react-js-and-php-d5977c17fec0
+
+link 2:
+    https://googleweblight.com/sp?u=https://www.w3jar.com/react-js-php-mysqli-crud-application-with-react-context-api/&grqid=a8-_OVID&hl=pt-PT
